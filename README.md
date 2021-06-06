@@ -1,5 +1,5 @@
 ### Hi there 👋
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=이름)](https://solved.ac/golmoking16/)
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=golmoking16)](https://solved.ac/golmoking16/)
 
 <!--
 **Golmoking/Golmoking** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

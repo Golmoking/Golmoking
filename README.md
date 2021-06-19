@@ -2,13 +2,13 @@
 👋 Hello
 국방의 의무를 다하는중
 
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=golmoking16)](https://solved.ac/golmoking16/)   
-[![Solved.ac 프로필](http://mazassumnida.wtf/api/pastel/generate_badge?boj=golmoking16)](https://solved.ac/golmoking16)
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=golmoking16)](https://solved.ac/golmoking16/)  
 
 
 - 청강문화산업대학교 게임컨텐츠스쿨 1학년
 - 선린인터넷고등학교 게임개발동아리 [Zer0pen](https://github.com/zer0pen) 14기 부부장
-- Tech : Unity, Unreal, C++
+- 게임 프로그래밍 : Unity, Unreal, C++
+- 게임 3D 아트 : 3Ds Max, Shader, Graphics
 
 <!--
 **Golmoking/Golmoking** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

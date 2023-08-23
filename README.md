@@ -1,6 +1,5 @@
 ### GolmokDaeBBang (@golmoking)
 👋 Hello
-국방의 의무를 다하는중
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=golmokdaebbang)](https://solved.ac/golmokdaebbang/)  
 
